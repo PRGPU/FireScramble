@@ -50,7 +50,7 @@ Get the native application for the best performance on Android devices.
 
 <div align="center">
 
-<a href="https://github.com/PRGPU/FireScramble-Download/releases/latest/download/FireScramble.apk">
+<a href="https://github.com/PRGPU/FireScramble/releases/download/v1.0.0/FireScramble-v1.0.0.apk">
   <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50">
 </a>
 
@@ -60,7 +60,7 @@ Get the native application for the best performance on Android devices.
 |-------------|-------|
 | **OS** | Android 7.0+ |
 | **Architecture** | ARM64, ARMv7, x86_64 |
-| **Size** | ~10 MB |
+| **Size** | ~6 MB |
 
 ---
 
