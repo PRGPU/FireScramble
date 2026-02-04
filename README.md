@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="FireScramble Logo" width="150" height="150">
+  <img src="logo.png" alt="FireScramble Logo" width="150" height="150">
 </p>
 
 <h1 align="center">🔥 FireScramble</h1>
